@@ -88,7 +88,7 @@ form {
 }
 
 #show-more-button {
-    background-color: #008cba important;
+    background-color: #008cba;
     border: none;
     color: white;
     padding: 10px 20px;
